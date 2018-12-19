@@ -228,7 +228,7 @@ unset;}
 
 @media (max-width: 655px) {
    
-    .ABT_Home_Submit{max-width: 100%!important;}
+    .ABT_Home_Submit, .ABT_Home_Email{max-width: 100%!important;}
    
    .index_Ads{width: 100%; overflow:hidden;}
    .secondary-menu ul li{
