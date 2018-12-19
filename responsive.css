@@ -227,6 +227,14 @@ unset;}
 
 
 @media (max-width: 655px) {
+   
+   .index_Ads{width: 100%; overflow:hidden;}
+   .secondary-menu ul li{
+      left: 0px!important;
+   }
+   
+   .secondary-menu ul{width: 100%;}
+   
   .toggleMenu{
     display: block;
   }
