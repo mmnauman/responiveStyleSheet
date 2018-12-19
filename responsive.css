@@ -374,7 +374,7 @@ unset;}
 
 @media (max-width: 346px){
    .secondary-menu{display:none}
-   .menu-container{top: unset;}
-   .main-nav{border-radius: 0px; position: unset}
+   .menu-container{position: unset;}
+   .main-nav{border-radius: 0px; position: unset; width: 100%}
    .toggleMenu{top: 220px}
 }
